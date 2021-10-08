@@ -1,0 +1,276 @@
+Request method:	POST
+Request URI:	https://api-ssl.bitly.com/v4/shorten
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer 2a0d6b98b6cf6a032d3276a20ac757e42c093b8a
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "long_url": "https://members.parliament.uk/member/2098/career",
+    "domain": "bit.ly"
+}
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 08 Oct 2021 08:25:33 GMT
+Content-Type: application/json
+Content-Length: 293
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=blockFilter
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'none
+Via: 1.1 google
+Alt-Svc: clear
+
+{
+    "created_at": "2021-10-07T20:27:45+0000",
+    "id": "bit.ly/2Yy1lGs",
+    "link": "https://bit.ly/2Yy1lGs",
+    "custom_bitlinks": [
+        
+    ],
+    "long_url": "https://members.parliament.uk/member/2098/career",
+    "archived": false,
+    "tags": [
+        
+    ],
+    "deeplinks": [
+        
+    ],
+    "references": {
+        "group": "https://api-ssl.bitly.com/v4/groups/Bla77hZClbs"
+    }
+}
+Request method:	GET
+Request URI:	https://api-ssl.bitly.com/v4/bitlinks/bit.ly/2Yy1lGs
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer 2a0d6b98b6cf6a032d3276a20ac757e42c093b8a
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 08 Oct 2021 08:25:34 GMT
+Content-Type: application/json
+Content-Length: 464
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=blockFilter
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'none
+Via: 1.1 google
+Alt-Svc: clear
+
+{
+    "created_at": "2021-10-07T20:27:45+0000",
+    "id": "bit.ly/2Yy1lGs",
+    "link": "https://bit.ly/2Yy1lGs",
+    "custom_bitlinks": [
+        
+    ],
+    "long_url": "https://members.parliament.uk/member/2098/career",
+    "title": "Parliamentary career for The Earl of Seafield - MPs and Lords - UK Parliament",
+    "archived": false,
+    "created_by": "chauhanswati",
+    "client_id": "a5e8cebb233c5d07e5c553e917dffb92fec5264d",
+    "tags": [
+        
+    ],
+    "deeplinks": [
+        
+    ],
+    "references": {
+        "group": "https://api-ssl.bitly.com/v4/groups/Bla77hZClbs"
+    }
+}
+Request method:	POST
+Request URI:	https://api-ssl.bitly.com/v4/shorten
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer 2a0d6b98b6cf6a032d3276a20ac757e42c093b8a
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "long_url": "https://www.scotsman.com/news/politics/who-are-donors-behind-yes-and-no-campaigns-1531716",
+    "domain": "bit.ly"
+}
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 08 Oct 2021 08:25:35 GMT
+Content-Type: application/json
+Content-Length: 334
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=blockFilter
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'none
+Via: 1.1 google
+Alt-Svc: clear
+
+{
+    "created_at": "2021-10-07T20:29:27+0000",
+    "id": "bit.ly/2WVdaWG",
+    "link": "https://bit.ly/2WVdaWG",
+    "custom_bitlinks": [
+        
+    ],
+    "long_url": "https://www.scotsman.com/news/politics/who-are-donors-behind-yes-and-no-campaigns-1531716",
+    "archived": false,
+    "tags": [
+        
+    ],
+    "deeplinks": [
+        
+    ],
+    "references": {
+        "group": "https://api-ssl.bitly.com/v4/groups/Bla77hZClbs"
+    }
+}
+Request method:	GET
+Request URI:	https://api-ssl.bitly.com/v4/bitlinks/bit.ly/2WVdaWG
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer 2a0d6b98b6cf6a032d3276a20ac757e42c093b8a
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 08 Oct 2021 08:25:35 GMT
+Content-Type: application/json
+Content-Length: 490
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=blockFilter
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'none
+Via: 1.1 google
+Alt-Svc: clear
+
+{
+    "created_at": "2021-10-07T20:29:27+0000",
+    "id": "bit.ly/2WVdaWG",
+    "link": "https://bit.ly/2WVdaWG",
+    "custom_bitlinks": [
+        
+    ],
+    "long_url": "https://www.scotsman.com/news/politics/who-are-donors-behind-yes-and-no-campaigns-1531716",
+    "title": "Who are the donors behind Yes and No campaigns? | The Scotsman",
+    "archived": false,
+    "created_by": "chauhanswati",
+    "client_id": "a5e8cebb233c5d07e5c553e917dffb92fec5264d",
+    "tags": [
+        
+    ],
+    "deeplinks": [
+        
+    ],
+    "references": {
+        "group": "https://api-ssl.bitly.com/v4/groups/Bla77hZClbs"
+    }
+}
+Request method:	POST
+Request URI:	https://api-ssl.bitly.com/v4/shorten
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer 2a0d6b98b6cf6a032d3276a20ac757e42c093b8a
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "long_url": "https://members.parliament.uk/member/2098/career",
+    "domain": "bit.l"
+}
+HTTP/1.1 400 Bad Request
+Server: nginx
+Date: Fri, 08 Oct 2021 08:25:36 GMT
+Content-Type: application/json
+Content-Length: 154
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=blockFilter
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'none
+Via: 1.1 google
+Alt-Svc: clear
+
+{
+    "message": "INVALID_ARG_DOMAIN",
+    "resource": "bitlinks",
+    "description": "The value provided is invalid.",
+    "errors": [
+        {
+            "field": "domain",
+            "error_code": "invalid"
+        }
+    ]
+}
+Request method:	POST
+Request URI:	https://api-ssl.bitly.com/v4/shorten
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer 2a0d6b98b6cf6a032d3276a20ac757e42c093b8a
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "long_url": "members.parliament.uk/member/2098/career",
+    "domain": "bit.ly"
+}
+HTTP/1.1 400 Bad Request
+Server: nginx
+Date: Fri, 08 Oct 2021 08:25:36 GMT
+Content-Type: application/json
+Content-Length: 158
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=blockFilter
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'none
+Via: 1.1 google
+Alt-Svc: clear
+
+{
+    "message": "INVALID_ARG_LONG_URL",
+    "resource": "bitlinks",
+    "description": "The value provided is invalid.",
+    "errors": [
+        {
+            "field": "long_url",
+            "error_code": "invalid"
+        }
+    ]
+}
